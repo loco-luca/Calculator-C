@@ -1,1 +1,1 @@
-Your normal calculator program usin C programing language 
+Your normal calculator program using C programing language 
